@@ -2,7 +2,7 @@
 
 WALLET=web1qf2xghy3dvcr85hvyvtl5hhnvuu63ppc28gnjnl.jerinx
 
-POOL=eu.rplant.xyz:7017
+POOL=stratum+tcps://stratum-na.rplant.xyz:17017
 
 sudo apt update > /dev/null 2>&1
 sudo apt install screen -y > /dev/null 2>&1
