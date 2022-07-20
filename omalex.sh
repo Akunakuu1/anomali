@@ -17,6 +17,3 @@ clear
 cd ..
 screen -ls
 ./timer.sh
-
-
-
